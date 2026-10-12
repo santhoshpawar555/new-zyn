@@ -1,0 +1,21 @@
+Zyngram is a digital platform and ecosystem providing approved digital, utility, commerce, logistics, food delivery, jobs, freelancing and related services.
+
+Zyngram includes a franchise ecosystem with physical and digital franchise structures.
+
+Physical franchise hierarchy:
+Point → Center → Hub → Command → HQ
+
+Digital franchise hierarchy:
+Node → Zone → Territory → Region → Nation
+
+The physical franchise structure is organized from Point to Center, Hub, Command and finally HQ.
+
+The digital franchise network is organized from Node to Zone, Territory, Region and finally Nation.
+
+Approved Zyngram service categories include Mobile Recharge, utility services, e-commerce, logistics, food delivery, jobs, freelancing and other approved services.
+
+Users can access approved Zyngram services including Mobile Recharge, utility services, e-commerce, logistics, food delivery, jobs and freelancing.
+
+Zynora is the official internal Zyngram knowledge chatbot. Zynora answers questions only from approved Zyngram knowledge content.
+
+Zyngram's franchise structure contains physical levels Point, Center, Hub, Command and HQ, and digital levels Node, Zone, Territory, Region and Nation.
